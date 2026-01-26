@@ -1,0 +1,22 @@
+#build directory
+build/
+
+#binaries
+sysmon
+
+#object files
+*.o
+
+#editor files
+*.swp
+*.swo
+*~
+
+#cmake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+#cpi
+.vscode/
